@@ -3,5 +3,6 @@
 "link":"https://flutter.dev/",
 "title":"",
 "about":"",
-"update":"https://play.google.com/store/apps/details?id=com.zl.helloapyar"
+"update":"https://play.google.com/store/apps/details?id=com.zl.helloapyar",
+"main":true
 }
